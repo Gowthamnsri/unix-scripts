@@ -1,0 +1,50 @@
+Unix Script:
+man ls- list directory contents
+clear- clear the screen
+pwd- current working directory
+cd- change the directory
+echo- print the messege
+whoami- current user
+su- switch user
+sudo bash- switch the root user
+sudo userpasswd- update the password
+sudo userdel-delete the user
+sudo touch- create the file
+vi- open the file for editing
+cat- view the content of the file
+mv- move the file
+rm- remove the file
+mkdir- make directory
+rmd-remove the directory
+grep- check the word inside the file
+sort- sort the word  
+sort n - sort the word numerical order
+chmod- change the  file permission
+ls- list the file
+lsof- list of open file 
+id- print the id's
+id-u -  user id
+id-g -group id
+ig-G- sub grop id
+sed- replace the word
+uniq- list the uiq value 
+history- show the history
+ifconfig- show the interface
+ip address- show the ip address
+awk '{print}'- show and open the file
+
+Git commands:
+
+git config- configer the user
+git init- start new repo
+git glone- glone the repo
+git add- add files
+git commit- record and shapshot the file
+git rm- remove the file
+git remote- connect local repo to remote
+git push-push the file to remote
+git pull- change remote server to  local repo
+git branch- show all the local branch
+git checkout- change one to another branch
+git merge- merge the specific branch
+
